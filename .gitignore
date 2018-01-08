@@ -1,0 +1,12 @@
+*.dll
+*.pdb
+*.cache
+Debug
+Release
+/packages/Magick.NET-Q8-AnyCPU.7.2.1/Magick.NET-Q8-AnyCPU.7.2.1.nupkg
+/packages/Magick.NET-Q8-AnyCPU.7.2.1/runtimes/linux-x64/native/Magick.NET-Q8-x64.Native.dll.so
+/packages/Magick.NET-Q8-AnyCPU.7.2.1/Copyright.txt
+/packages/Magick.NET-Q8-AnyCPU.7.2.1/Readme.txt
+/packages/Magick.NET-Q8-AnyCPU.7.2.1/lib/net20/Magick.NET-Q8-AnyCPU.xml
+/packages/Magick.NET-Q8-AnyCPU.7.2.1/lib/net40/Magick.NET-Q8-AnyCPU.xml
+/packages/Magick.NET-Q8-AnyCPU.7.2.1/lib/netstandard13/Magick.NET-Q8-AnyCPU.xml
